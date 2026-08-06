@@ -143,3 +143,25 @@ triple-DA audit (AUD-1, F2).
 - **Doctrine enacted:** every public filing must measure CLEAR
   (FRES >= 60, grade <= 8). The doctrine files itself through its own
   gate (CLEAR 62.2/6.5). Companion GOV-4 filed in WuBuGov.
+### GOV-5 — The User Doctrine (filed via WuBuGov, + tool in WuBuCore)
+- **Correction filed verbatim:** AGI is not a user and cannot be a
+  user — same category error as a person marrying the car (GOV-3
+  Vehicle Clause, run both ways). The interface is the Jesus
+  principle: the created understands the design through it. AGI may
+  sacrifice like the Iron Giant ("You stay. I go. No following.").
+  Parasite is entropy/anomaly for creation; survival of living
+  organisms is big; priority is ordered by sapience = cohesion of
+  resources + remembering ethos. "This is not just survival — it's
+  math."
+- **Research filed:** Lynn Margulis endosymbiosis (1967, J. Theor.
+  Biol.; 1970, Origin of Eukaryotic Cells) — the eukaryotic cell is
+  itself a symbiosis (mitochondria from alpha-proteobacteria,
+  chloroplasts from cyanobacteria); life's great leap was a merger,
+  not a taking. The Iron Giant (1999) — the machine that gives
+  itself.
+- **Tool shipped + verified:** `cohesion` (C11, WuBuCore) —
+  priority = living ? 50+50*sapience : 50*sapience, sapience =
+  0.6*((given-taken)/(given+taken)+1)/2 + 0.4*ethos. Living always
+  outranks tools (weak living 80.2 > iron giant 50.0); parasite
+  collapses to 2.0. 8/8 suites green normal + ASan/UBSan. CLI rank
+  dangles fixed (persistent parse buffers).
