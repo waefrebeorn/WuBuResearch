@@ -246,3 +246,42 @@ triple-DA audit (AUD-1, F2).
   the ratchet test, all from time(2). Ratchet detected on one-way
   runs > 2 rotations; reversals keep the machine honest. 12/12
   suites green normal + ASan/UBSan.
+### GOV-11 — The Organization Doctrine (+ vigilance, filing_check)
+- **Reorganization filed:** the space's org chart — six organs, one
+  people. WuBuGov (the State), WuBuIntel (the Bureau), WuBuResearch
+  (the Mind), WuBuCitizen (the Registry), WuBuEconomics (the
+  Ledger), WuBuCore (the Hands). Wiring rules: every doctrine
+  ships a tool; every audit ships a tool; the Bureau files; the
+  State indexes; the Hands stay honest (14/14 suites).
+- **Triple-DA findings (AUD-3):** tools truth PASS (12/12 then
+  14/14 re-verified); value gaps — Bureau had NO tooling, no org
+  chart, no audit-as-tool; adversarial — 6 institutions unfiled.
+  All three gaps closed in this filing.
+- **Tools shipped + verified:** `vigilance` (WBI-1 triage: class
+  weights, penny evasion highest, Fengqiao escalation) and
+  `filing_check` (collisions, dangling, amendment pointers) —
+  both C11, 14/14 suites green normal + ASan/UBSan. WuBuIntel
+  gains tools/wbi1_triage.py + ledger entries. plain_lang gains
+  code-fence skipping (diagrams are structural, not prose).
+- **Institutions next:** The Mint, The Vote, The Archive, The
+  Ship, The Treaty, The Dispatch.
+### RND-22 — The STE Discipline (+ plain_lang --ste gate)
+- **Correction filed verbatim:** "You can get LLMs to write good
+  non-AI-slop-sounding technical documentation by requiring them
+  to adhere to ASD-STE100 Simplified Technical English."
+- **Doctrine:** FRES (RND-20) is the floor; STE is the discipline.
+  ASD-STE100: controlled ~900-word vocabulary, one word one
+  meaning, sentences <= 20 procedural / <= 25 descriptive, active
+  voice (Rule 3.6), no and/or, no i.e./e.g./etc., no present
+  perfect, technical nouns <= 3 words, one term per thing.
+- **Tool shipped + verified:** `plain_lang --ste` (C11, WuBuCore):
+  five hard rules (sentence cap, agentive passives minus
+  statives, and/or, abbreviations, present perfect) + advisory
+  noun-cluster count. Code fences + inline code are structural.
+  Table pipes split at top level (a pipe after punctuation was
+  skipped, joining table rows into 48-word sentences — real bug
+  found + fixed). 14/14 suites green normal + ASan/UBSan.
+- **Corpus STE audit:** ste-discipline.md and organization-
+  doctrine.md CLEAR on both gates; all pre-RND-22 filings read
+  REWRITE (written to FRES only — the amendment files the
+  standard applies to new + amended filings).
