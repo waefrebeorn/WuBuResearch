@@ -35,6 +35,13 @@ Every finding. Every source. Every invention.**
 - Anti-bribery rule: pennies can't buy scores.
 - Anonymous pennies are CURIOSITY, never rejected.
 
+### RND-5 — Currency legality (filed + corrected)
+- **Penny = legal tender in perpetuity** (Treasury FAQ). Last minted Nov 12, 2025; ~114B in circulation. NOT illegal — the rarest property in currency history: finite supply, still legal, forever.
+- **18 U.S.C. § 486:** no metal coins intended as current money, original design included (Liberty Dollar precedent, $7M seizure). The one absolute.
+- **31 C.F.R. Part 82:** melting/export/treatment ban — but § 82.2(b) explicitly exempts treatment for educational/amusement/novelty/jewelry purposes. Wheat-penny art is lawful, in practice never prosecuted.
+- **The Reuse Doctrine (citizen's correction, adopted):** the space does not mint, melt, or modify — it *reuses*. Reuse is untouchable: § 82.1 covers only export/melt/treat, and legal tender means spendable forever. The WuBu Penny = the Penny Standard: 1 WuBu Penny = 1 real U.S. penny, ledger-backed, chain-proven, whole metal.
+- Three Metal Rules corrected: no strike (486), no melt-for-profit (5111(d)), reuse always.
+
 ---
 
 *The log is append-only. New findings go at the bottom, dated, filed.*
