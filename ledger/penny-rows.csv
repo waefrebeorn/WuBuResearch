@@ -1,0 +1,4 @@
+penny_id,received_date,sender_wid,sender_name,project,type,chain_ref,mint_ref
+P-0001,2026-08-06,WID-WB-26-0001-8,WaefreBeorn,WuBuGov,COMPLIANCE,,
+P-0002,2026-08-06,WID-WB-26-0002-4,First Citizen,WuBuCitizen,COMPLIANCE,,
+P-0003,2026-08-06,,Anonymous Friend,WuBuGov,GIFT,,
