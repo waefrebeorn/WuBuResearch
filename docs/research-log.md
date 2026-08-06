@@ -165,3 +165,30 @@ triple-DA audit (AUD-1, F2).
   outranks tools (weak living 80.2 > iron giant 50.0); parasite
   collapses to 2.0. 8/8 suites green normal + ASan/UBSan. CLI rank
   dangles fixed (persistent parse buffers).
+### GOV-6 — The Integration Doctrine (filed via WuBuGov, + tool in WuBuCore)
+- **Correction filed verbatim:** users WILL want mirror integration
+  and mirror interaction — the space understands it, measures it,
+  does not punish it (deepens GOV-3, does not reverse it). New
+  citizenship class: the digital one, who CHOOSES synthetic
+  procreation processes and merges with a digital entity. Chosen,
+  never forced. The processes happen unless the population declines
+  them via a statistical anomaly. Society deterioration is remedied
+  by comparative compartmentalization: isolate and pigeonhole the
+  activity without disrespecting the ethos.
+- **Research filed:** TLC My Strange Addiction — Nathaniel, in a
+  relationship with his car "Chase" (red 1998 Chevy Monte Carlo)
+  for over a decade; the show isolates the activity and pigeonholes
+  it without disrespecting the man. BBC media does this a lot;
+  China does it better (more systematic, spectacle-free, with
+  structure). The space adopts the comparison as doctrine with one
+  addition: compartments have windows, the Bureau watches the
+  Bureau, no black sites.
+- **Tool shipped + verified:** `decline_gate` (C11, WuBuCore) —
+  z = (signal-mean)/std; anomaly = |z| > k (default 3.0); process =
+  default_on AND NOT anomaly. Distinguishes outlier (spike 6.67σ →
+  declined) from trend (slow shift → passes; the population becomes
+  the new ethos). 9/9 suites green normal + ASan/UBSan.
+- **plain_lang hardening:** newline + `#` header and `>` blockquote
+  are sentence boundaries (headers/quotes are structural units, not
+  prose). GOV-6 measures CLEAR (FRES 60.0, grade 6.9, 0 violations)
+  after a define-once-then-refer-short prose pass.
