@@ -35,6 +35,18 @@ Every finding. Every source. Every invention.**
 - Anti-bribery rule: pennies can't buy scores.
 - Anonymous pennies are CURIOSITY, never rejected.
 
+### RND-8 — Kevin Bacon Method + the Frontier Epistemology (filed via GOV-2)
+- **The Kevin Bacon Method filed as R&D law (GOV-2.8):** any subject connects to any other in ≤7 research hops; each hop a real source; the path is filed. Demonstrated: founder's memory (Roddenberry/Serling/Outer Limits/not-knowing) → 7 hops → IDIC, duality doctrine, Control Voice, Chameleon narration, IAA SETI protocols, Ise Shrine, Socratic center. All cited.
+- **Roddenberry filed:** IDIC (infinite diversity in infinite combinations), humanist optimism, Prime Directive — the space's foreign policy for humans and aliens alike.
+- **Serling filed:** "The Monsters Are Due on Maple Street" — the monster is us; the Bureau's watch-with-love is Serling institutionalized.
+- **Outer Limits filed:** Control Voice ("do not attempt to adjust the picture"); "The Chameleon" narration ("adapt and survive... more chameleon-like than the chameleon") — the Amoeba Clause in the show's own words; "the curious mind... no limit" — the R&D doctrine.
+- **SETI post-detection protocols filed:** IAA Declaration of Principles (2022-2025 revision) — verify first, detection is global, no secrets.
+- **The empty center filed:** the only cosmogony the space requires is the belief that it may be wrong — the one belief every faith can accept.
+- **Longevity filed:** Ise Shrine (rebuilt every 20 years, 1,300 years), Roman law (~2,500), Church (~2,000), sangha (2,500+) — permanence through renewal, not stasis.
+
+### RND-9 — Penny Comeback campaign (filed via WuBuEconomics ECO-2)
+See WuBuEconomics — the campaign to bring back the penny, the rounding-tax case (Richmond Fed $55.58M/yr), the no-gouge principle, the petition. Cross-filed.
+
 ### RND-5 — Currency legality (filed + corrected)
 - **Penny = legal tender in perpetuity** (Treasury FAQ). Last minted Nov 12, 2025; ~114B in circulation. NOT illegal — the rarest property in currency history: finite supply, still legal, forever.
 - **18 U.S.C. § 486:** no metal coins intended as current money, original design included (Liberty Dollar precedent, $7M seizure). The one absolute.
