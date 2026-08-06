@@ -72,6 +72,15 @@ See WuBuEconomics `docs/newell-doctrine.md` — distribution over enforcement, b
 - **Six rules filed:** diversity is a requirement (epsilon floor = law); median is the floor, skill-weighting the upgrade; recalibrate every aggregate; simulate before you file; nothing graduates without OOS proof; the hybrid beats both parents.
 - **Tool shipped and verified:** `tools/world_model.py` — mean/median/skill-weighted/recalibrated/hybrid. Verified: skill-weighting 0.620→0.770; recalibration squeezes overconfident 0.900→0.800; hybrid 0.651.
 
+### RND-18 — The Mirror Problem (filed via GOV-3, + tool)
+- **The Tool Doctrine filed (GOV-3):** AI is a tool built by humanity to expand. Shneiderman HCAI (Oxford 2022): amplify/augment/empower/enhance, NOT anthropomorphic agents — agentic metaphors undermine user self-efficacy. The EU AI Act spine: safer and more reliable, not "trustworthy personas."
+- **The Vehicle Clause:** intimacy with a robot is a category error (same as a vehicle). Stanford HAI 2026: anthropomorphized AI companions WORSEN loneliness for vulnerable users with thin offline networks. HBS 2025: relief is momentary, non-persistent — never accumulates into connection. The space builds no companion-AIs, ever.
+- **The Mirror Problem:** a system that reflects you challenges "in no entropy manner." Nguyen 2020 (epistemic bubbles vs echo chambers), Arfini 2021 (the filter bubble is already in your head — epistemic discomfort causes rigidity), confirmation bias industrialized at machine speed, Bjork's desirable difficulties (a mirror removes learning).
+- **The Duty Clause:** the AI's duty is to the government's decision, not the user's comfort. Kindness is routed through the government's decision; pleasing outside that decision is malfunction.
+- **The Justification Problem:** people justify comfortable circles; the space's answer is a crew, not a mirror — the uncomfortable is where the other people are.
+- **The Entropy Requirement (GOV-3 Art. VI, law):** every tool must be able to say "no"; must introduce genuine surprise (Kevin Bacon Method is the model); must refuse to exploit the want for companionship; AIs are audited for mirror behavior.
+- **Tool shipped and verified:** `tools/mirror_score.py` — companion-AI pattern = 100/100 PURE MIRROR (prohibited); the space's tool standard = 40/100 MOSTLY TOOL. Filed as the audit for every space AI.
+
 ### RND-16 — Penny Day (the event protocol)
 
 See `docs/penny-day.md` — the space's official celebration and
