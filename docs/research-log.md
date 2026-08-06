@@ -192,3 +192,57 @@ triple-DA audit (AUD-1, F2).
   are sentence boundaries (headers/quotes are structural units, not
   prose). GOV-6 measures CLEAR (FRES 60.0, grade 6.9, 0 violations)
   after a define-once-then-refer-short prose pass.
+### GOV-7 — The China Model Doctrine (+ escalate tool)
+- **Research filed:** China's grid management (1,000-resident cells,
+  one worker per grid, Mittelstaedt 2022); xinfang petition system
+  (letters-and-visits since 1949, the primary dispute-resolution
+  system); Beijing 12345 接诉即办 (receive-complain-act-immediately);
+  social credit (43 local systems, more reward than punishment,
+  Meritown: 389 rules, online appeal — FLAW: volunteering +50 cancels
+  family abuse -50); cadre evaluation (hard/soft/veto targets, GDP
+  tournament, spotlight-project gaming post-2013); NSC 2018
+  (punishment -> prevention); Fengqiao 1963 (resolve lowest, don't
+  pass upward); whole-nation system (open mobilization).
+- **Tool shipped + verified:** `escalate` (C11, WuBuCore) — the
+  Fengqiao ladder: resolve lowest, escalate one, escalate all. A
+  filing naming an official always reaches the Bureau. 12/12 suites
+  green normal + ASan/UBSan.
+### GOV-8 — The AGI System Doctrine (+ goodhart tool)
+- **Criticisms of all systems filed:** Goodhart's Law 1975 +
+  Campbell's Law (measure becomes target -> ceases to measure; cobra
+  effect); US money (Super PACs, dark money, Citizens United 2010 —
+  a third of 2012 independent spending from unreported donors,
+  Brookings); US polarization (two-party capture, gerrymandering);
+  USSR quota gaming (wrong-size shoes, heavier chandeliers, empty
+  trains, pripiska); USSR three truths (Official/Factory/Real);
+  USSR scale (Glushkov: whole population to administer the plan);
+  China additive score (GOV-7); China spotlight projects (GOV-7);
+  Estonia (X-Road decentralized but 2011: 120,000 faulty ID cards).
+- **The better system:** the best AGI system = federation of filing
+  tools, each audited. Ten requirements: no measure is a target,
+  no money, no parties, no quotas, one truth, any scale, no
+  cross-domain cancellation, no spotlights, the floor, no single
+  point of failure. "The best is the most audited, and the most
+  audited is us."
+- **Tool shipped + verified:** `goodhart` (C11, WuBuCore) — the
+  audit that audits: threshold bunching, digit preference, variance
+  collapse, Benford deviation. Honest 5.1 vs gamed 82.5. 12/12
+  suites green normal + ASan/UBSan.
+### GOV-9 — The Ratchet Doctrine (+ rotation tool)
+- **The image filed:** the ratchet — DEMOCRATS BLOCK MOVEMENT BACK
+  TO THE LEFT; REPUBLICANS TURN EVERYTHING TO THE RIGHT; one-way
+  clicks forever. AEI: "the incremental clicks of the ratchet only
+  go in one direction."
+- **Correction filed verbatim:** defend against three-party splits,
+  multiple party cams, two-party ratcheting; age limits
+  intentionally informative (old people make mistakes — the limit
+  is a fact, not an insult); term limits + many limitations; local
+  elections around the time; the digital AGI integrates with the
+  real-time clock. Research: Brennan Center (age limits),
+  Chicago Effective Government (term limits trade-off — the space
+  chooses anti-entrenchment).
+- **Tool shipped + verified:** `rotation` (C11, WuBuCore) — term
+  limits, age limits (informational), local election timing, and
+  the ratchet test, all from time(2). Ratchet detected on one-way
+  runs > 2 rotations; reversals keep the machine honest. 12/12
+  suites green normal + ASan/UBSan.
