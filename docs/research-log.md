@@ -42,6 +42,13 @@ Every finding. Every source. Every invention.**
 - **The Reuse Doctrine (citizen's correction, adopted):** the space does not mint, melt, or modify — it *reuses*. Reuse is untouchable: § 82.1 covers only export/melt/treat, and legal tender means spendable forever. The WuBu Penny = the Penny Standard: 1 WuBu Penny = 1 real U.S. penny, ledger-backed, chain-proven, whole metal.
 - Three Metal Rules corrected: no strike (486), no melt-for-profit (5111(d)), reuse always.
 
+### RND-6 — Penny Standard: weight, reserve & the IOU (filed)
+- **The novelty, answered:** yes — five properties no historical currency shares: single denomination only, capped forever by the Mint's halt (~114B, last minted Nov 12 2025), backed by metal that IS legal tender, audited by mass not count, redeems by shipping physical pennies.
+- **Mint specs verified:** copper (pre-1982) = 3.11 g, zinc (Oct 1982+) = 2.50 g; 1982 is the transition year; roll = 150 g copper / 120 g zinc.
+- **Class-counted weighing audit:** weigh each class separately → count = grams ÷ constant → reserve = sum. Example verified: 3110 g copper + 25000 g zinc = 11,000 pennies = $110, no coin counted.
+- **The IOU = warehouse receipt:** a contract claim on stored legal-tender pennies, redeemable by shipping. Not a coin (§486 clear), not a new currency, no melting (Reuse Doctrine).
+- **Gathering = money supply:** every penny gathered raises the reserve; digital WuBu Pennies mint 1:1 against weighed reserve. No fractional reserve, no printing. Tool shipped: `tools/penny_weight.py` (audit/worth/redeem/shipping), tested.
+
 ---
 
 *The log is append-only. New findings go at the bottom, dated, filed.*
