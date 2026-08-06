@@ -65,6 +65,13 @@ See WuBuEconomics `docs/newell-doctrine.md` — distribution over enforcement, b
 - **The empty center filed:** the only cosmogony the space requires is the belief that it may be wrong — the one belief every faith can accept.
 - **Longevity filed:** Ise Shrine (rebuilt every 20 years, 1,300 years), Roman law (~2,500), Church (~2,000), sangha (2,500+) — permanence through renewal, not stasis.
 
+### RND-17 — The Unified World Model (filed + tool)
+- **Seven-step world research:** Wisdom of Crowds (Surowiecki: diversity/independence/decentralization/aggregation); markets vs polls (Atanasov, Management Science: team polls + statistical aggregation beat markets; performance weighting + recalibration are the upgrades); **Wisdom of the Silicon Crowd (Tetlock 2025: 12-LLM median ensemble rivals human crowd, ~$1/forecast, acquiescence/overconfidence biases)**; superforecasters (skill weighting = biggest aggregation upgrade); hybrid systems (SAGE: human+ML blend beats human-only); Society of Mind (Minsky → Generative Agents → AgentSociety 30K → multi-agent debate); **the Money Room studied (waefrebeorn/money-room, 68,950 LOC C11: 10K-agent P2P voting, epsilon-greedy anti-consensus floor, Q-controller, 10 teachers, nn_ensemble bootstrap; its own world-model-da found 5 gaps: dead-start init, 80-dim is really ~5-dim, curriculum wipes memory, no OOS eval, no LR decay)**.
+- **The theorem filed:** the best world model is a crowd — diverse, median-first, skill-weighted, recalibrated, hybridized (human ⊕ silicon), simulated before acting.
+- **The unification:** 4 layers (Collect → Aggregate [market mode + poll mode] → Hybridize [human⊕silicon median + recalibration] → Simulate & Learn [AgentSociety-style sim on the Money Room engine, Darwin graduation, OOS gate]).
+- **Six rules filed:** diversity is a requirement (epsilon floor = law); median is the floor, skill-weighting the upgrade; recalibrate every aggregate; simulate before you file; nothing graduates without OOS proof; the hybrid beats both parents.
+- **Tool shipped and verified:** `tools/world_model.py` — mean/median/skill-weighted/recalibrated/hybrid. Verified: skill-weighting 0.620→0.770; recalibration squeezes overconfident 0.900→0.800; hybrid 0.651.
+
 ### RND-16 — Penny Day (the event protocol)
 
 See `docs/penny-day.md` — the space's official celebration and
