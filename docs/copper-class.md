@@ -131,7 +131,7 @@ policy either way.
 
 **Penny Day.** The space does not fight a problem; it *files* it as
 an event. Novelty coinage is struck, celebrated, and the dispute
-becomes a holiday. (Full protocol: `docs/penny-day.md`, RND-8.)
+becomes a holiday. (Full protocol: `docs/penny-day.md`, RND-16.)
 
 ## Why the Copper Class is the answer to "I don't care if they mint more"
 

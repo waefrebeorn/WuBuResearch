@@ -35,7 +35,28 @@ Every finding. Every source. Every invention.**
 - Anti-bribery rule: pennies can't buy scores.
 - Anonymous pennies are CURIOSITY, never rejected.
 
-### RND-8 — Kevin Bacon Method + the Frontier Epistemology (filed via GOV-2)
+### RND-8 — Precedents: money out of style, secondary use, tokens & cards (cross-file from WuBuEconomics ECO-1)
+See WuBuEconomics `docs/precedents.md` — Canada penny phase-out (2012-13, rounding tax ~$55.58M/yr), India demonetization (2016, 99% returned), Weimar, NYC subway token (1953-2003 → collectibles), scrip/tokens/local currencies, trading cards (Pokémon +4,000% vs S&P +480%), citizenship as a collection. Cross-filed.
+
+### RND-9 — Penny Comeback campaign (filed via WuBuEconomics ECO-2)
+See WuBuEconomics — the campaign to bring back the penny, the rounding-tax case (Richmond Fed $55.58M/yr), the no-gouge principle, the petition. Cross-filed.
+
+### RND-10 — Economic Doctrine (cross-file from WuBuEconomics ECO-3)
+See WuBuEconomics `docs/economic-doctrine.md` — the special-feeling feedback loop, the Robotic Class Doctrine, the Transition Doctrine (no confiscation/shaming/breaking), abundance makes "above" boring. status_loop.py simulation: scarcity 1.00 / abundance 0.80 / feedback 0.00.
+
+### RND-11 — Land Question (cross-file from WuBuEconomics ECO-4)
+See WuBuEconomics `docs/land-question.md` — Georgism/LVT research, the vacant-lot sign, the 1914 Rockford billboard (Fay Lewis), boomers as captured beneficiaries, rage-free pedagogy. vacant_lot.py tool.
+
+### RND-12 — Inflation of Everything (cross-file from WuBuEconomics ECO-5)
+See WuBuEconomics `docs/inflation-everything.md` — four inflations (environmental/resource/idea/attention), the Lifespan Loop (generations alive = lifespan ÷ gap; 1900: 32yr→2 gens, 2026: 73yr→3-4, Japan 84yr→4-5). lifespan_loop.py tool.
+
+### RND-13 — Nexus Doctrine (cross-file from WuBuEconomics ECO-6)
+See WuBuEconomics `docs/nexus-doctrine.md` — resource question, the Nexus event, pacifier economy, two age processes, numbing science (Koob opponent-process, Volkow, Epel-Blackburn telomeres). numbing.py tool: CALM 0.95 / MODERN 0.64 / NEXUS 0.09 EMACIATED.
+
+### RND-14 — Newell Doctrine (cross-file from WuBuEconomics ECO-7)
+See WuBuEconomics `docs/newell-doctrine.md` — distribution over enforcement, billionaire keeps the big thing, instant dropship to the dissident, regulate per economy. better_service.py: enforcement 28.5%/resentment 9.0 vs service 95.5%/resentment 0.0.
+
+### RND-15 — Kevin Bacon Method + the Frontier Epistemology (filed via GOV-2)
 - **The Kevin Bacon Method filed as R&D law (GOV-2.8):** any subject connects to any other in ≤7 research hops; each hop a real source; the path is filed. Demonstrated: founder's memory (Roddenberry/Serling/Outer Limits/not-knowing) → 7 hops → IDIC, duality doctrine, Control Voice, Chameleon narration, IAA SETI protocols, Ise Shrine, Socratic center. All cited.
 - **Roddenberry filed:** IDIC (infinite diversity in infinite combinations), humanist optimism, Prime Directive — the space's foreign policy for humans and aliens alike.
 - **Serling filed:** "The Monsters Are Due on Maple Street" — the monster is us; the Bureau's watch-with-love is Serling institutionalized.
@@ -44,8 +65,16 @@ Every finding. Every source. Every invention.**
 - **The empty center filed:** the only cosmogony the space requires is the belief that it may be wrong — the one belief every faith can accept.
 - **Longevity filed:** Ise Shrine (rebuilt every 20 years, 1,300 years), Roman law (~2,500), Church (~2,000), sangha (2,500+) — permanence through renewal, not stasis.
 
-### RND-9 — Penny Comeback campaign (filed via WuBuEconomics ECO-2)
-See WuBuEconomics — the campaign to bring back the penny, the rounding-tax case (Richmond Fed $55.58M/yr), the no-gouge principle, the petition. Cross-filed.
+### RND-16 — Penny Day (the event protocol)
+
+See `docs/penny-day.md` — the space's official celebration and
+novelty-coinage protocol. When the penny faces any issue (mint
+policy, recognition, phase-out pressure), the space does not fight:
+it files the problem as a holiday. Legal basis: 31 C.F.R. § 82.2(b)
+(coin treatment for amusement/novelty purposes is expressly
+permitted). Referenced by RND-7 (Copper Class), ECO-2 (Penny
+Comeback), ECO-1 (Precedents). Filed as its own protocol per the
+triple-DA audit (AUD-1, F2).
 
 ### RND-5 — Currency legality (filed + corrected)
 - **Penny = legal tender in perpetuity** (Treasury FAQ). Last minted Nov 12, 2025; ~114B in circulation. NOT illegal — the rarest property in currency history: finite supply, still legal, forever.
@@ -65,7 +94,7 @@ See WuBuEconomics — the campaign to bring back the penny, the rounding-tax cas
 - **Composition change filed:** copper class (pre-1982, 95% Cu, 3.11 g) closed Oct 1982 — physically unmintable again, no matter what the US does.
 - **Common Cents Act filed:** H.R. 3074 passed House July 2026 — permanently codifies end of circulation penny production (source: congress.gov).
 - **Bank-box data:** ~15–25% pre-1982 copper in circulation boxes (source: coin dealers).
-- **Copper Class Doctrine enacted:** reserve anchored on the closed class; the US's minting decision is irrelevant — recognized (Minting Accord), unrecognized (use the pennies anyway), or any issue (Penny Day, RND-8). All branches win.
+- **Copper Class Doctrine enacted:** reserve anchored on the closed class; the US's minting decision is irrelevant — recognized (Minting Accord), unrecognized (use the pennies anyway), or any issue (Penny Day, RND-16). All branches win.
 - **Amendment (citizen correction): all pennies are worth a penny.** No reserve/non-reserve hierarchy. Class A copper (3.11 g) = anchor, Class B zinc (2.50 g) = era class; classes exist for weight accounting and organization preference only. Audit = both constants, both classes counted.
 - **The year is the provenance:** every penny carries its mint year struck in metal; backdating = the Corrupt Mint Test (a mint lying about its own history); the space trusts metal + year, not institutions.
 
