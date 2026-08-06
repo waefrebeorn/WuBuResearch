@@ -81,6 +81,15 @@ See WuBuEconomics `docs/newell-doctrine.md` — distribution over enforcement, b
 - **The Entropy Requirement (GOV-3 Art. VI, law):** every tool must be able to say "no"; must introduce genuine surprise (Kevin Bacon Method is the model); must refuse to exploit the want for companionship; AIs are audited for mirror behavior.
 - **Tool shipped and verified:** `tools/mirror_score.py` — companion-AI pattern = 100/100 PURE MIRROR (prohibited); the space's tool standard = 40/100 MOSTLY TOOL. Filed as the audit for every space AI.
 
+### RND-19 — AI Ethics & Asimov (filed + tool)
+- **The Three Laws filed verbatim + full history:** Campbell attribution (Dec 23 1940), the Clough poem origin of the inaction clause ("thou shalt not kill, but needst not strive officiously to keep alive"), "Liar!" (1941) / "Runaround" (1942) chronology, Susan Calvin's moral reading (robots "essentially decent"), Asimov's own verdict (the Laws are "obvious... implicit in the design of almost all tools").
+- **The Zeroth Law + its documented failure:** Giskard's brain self-destructs; Daneel's confession — "a human being is a concrete object... humanity is an abstraction." The space's concrete-only design (pennies, WIDs, rows) is the fix.
+- **The Minus-One Law** (Foundation sequels: "may not harm sentience") — adopted in spirit; matches GOV-2's aliens clause (license offered to any species).
+- **The loopholes filed:** every Asimov failure is a specification failure ("Liar!" is the 1941 mirror problem; undefined "harm"/"human"/"inaction").
+- **Modern ethics filed:** Floridi's unified five principles (beneficence, non-maleficence, autonomy, justice, **explicability** — the modern addition); Brookings "Laws Are Wrong"; IEEE "Beyond Asimov" (Murphy & Woods — responsibility-centered); EPSRC; EU AI Act. Consensus: responsibility stays with humans.
+- **The WuBu Laws of Tools enacted (5):** Law 1 non-maleficence (adopted from Asimov), Law 2 duty-to-the-filing (replaces obedience), Law 3 can-say-no (the anti-mirror fix for "Liar!"), Law 4 explicability (Floridi), Law 5 no-companion (GOV-3 Vehicle Clause). No Zeroth Law — the space never governs abstractions.
+- **Tool shipped and verified:** `tools/wubu_laws.py` — 5/5 compliant exits 0 ("the tool is a tool"); 1/5 mirror exits 1 ("recalibrate or retire").
+
 ### RND-16 — Penny Day (the event protocol)
 
 See `docs/penny-day.md` — the space's official celebration and
@@ -117,3 +126,20 @@ triple-DA audit (AUD-1, F2).
 ---
 
 *The log is append-only. New findings go at the bottom, dated, filed.*
+### RND-20 — The Language Doctrine (filed + tool)
+- **Research filed:** Plain Writing Act 2010 (Pub. L. 111-274);
+  International Plain Language Federation definition ("find, understand,
+  use"); digital.gov plain-language principles; GOV.UK writing rules +
+  words-to-avoid (26 banned words filed verbatim); Flesch-Kincaid
+  formulas (Flesch 1948 / Kincaid 1975) with documented anchor values
+  ("The cat sat on the mat." = FRES 116; platypus = grade 11.3 / FRES
+  37.5); Clarity International (not dumbed down, $98B complexity cost,
+  Quintilian).
+- **Tool shipped + verified:** `plain_lang` (C11, WuBuCore) — FRES +
+  grade with the exact formulas, banned-word + long-sentence flags.
+  7/7 test suites green normal + ASan/UBSan; documented values match.
+  ASan caught + fixed a heap-use-after-free (flag detail pointed at
+  freed scan words — now static table entries).
+- **Doctrine enacted:** every public filing must measure CLEAR
+  (FRES >= 60, grade <= 8). The doctrine files itself through its own
+  gate (CLEAR 62.2/6.5). Companion GOV-4 filed in WuBuGov.
