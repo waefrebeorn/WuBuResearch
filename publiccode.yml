@@ -1,0 +1,37 @@
+publiccodeYmlVersion: 0.5.0
+name: WuBuResearch
+url: https://github.com/waefrebeorn/WuBuResearch
+landingURL: https://waefrebeorn.org
+softwareVersion: "1.0.0"
+releaseDate: 2026-08-06
+platforms:
+  - web
+  - linux
+categories:
+  - digital-citizenship
+  - collaboration
+developmentStatus: beta
+softwareType: standalone/other
+description:
+  en:
+    localisedName: WuBuResearch
+    shortDescription: >-
+      The R&D Department of the ~ WuBu ~ space: organizes the
+      information and research of the space; works with the other
+      divisions.
+    longDescription: >-
+      WuBuResearch is the mind of the space. Scoring research
+      (Penny Score family), security research (X-Road, KSI, PQC),
+      WuBu cryptography (PennyChain, Provenance Penny), the Kevin
+      Bacon Method, the Language Doctrine, and the STE discipline —
+      each filed with its sources and its tools.
+    features:
+      - Penny Score, Crew Score, Compass Score (C11)
+      - PennyChain and the Provenance Penny
+      - The Kevin Bacon Method (7-step research)
+      - The Language Doctrine (plain English) with plain_lang
+      - The STE Discipline with plain_lang --ste
+legal:
+  license: WaefreBeorn-Umbrella-3.0
+  mainCopyrightOwner: WaefreBeorn
+  repoOwner: waefrebeorn

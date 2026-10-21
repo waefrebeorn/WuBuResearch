@@ -219,7 +219,7 @@ forces it, but because the law makes it perfect:
 ## Research log entries
 
 - RND-5.1: Treasury FAQ filed — penny legal tender in perpetuity (source: home.treasury.gov)
-- RND-5.2: Mint FAQ filed — last pennies Nov 12, 2025; ~114B in circulation; melting prohibited (source: usmint.gov)
+- RND-5.2: Mint FAQ filed — last pennies early 2026; ~114B in circulation; melting prohibited (source: usmint.gov); H.R.3074 Common Cents Act (passed House July 14, 2026) codifies the halt + allows cash rounding (§3(c): $0.01-0.02 → $0.05); 25 state rounding laws, 20 enacted, Arizona mandates (source: commoncentsact.com)
 - RND-5.3: 18 U.S.C. § 486 filed — no metal coins intended as money, original design included (source: uscode.house.gov, Cato)
 - RND-5.4: Liberty Dollar precedent filed — $7M seizure, conviction (source: fidjlaw.com)
 - RND-5.5: 31 C.F.R. Part 82 filed — melting/export ban in force (source: federalregister.gov, usmint.gov)

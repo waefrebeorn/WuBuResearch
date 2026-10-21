@@ -100,15 +100,15 @@ NIST standardized three families (2022–2024) for the quantum era:
 
 **Rule 1 — Public beats secret.** Estonia and Switzerland secure by
 publication. The space's security mechanisms are published in this
-repo. An attacker who knows every lock is still stopped by every lock
-— and the citizens who know every lock are the space's first line.
+repo. An attacker who knows every lock is still stopped by every lock.
+The citizens who know every lock are the space's first line.
 
 **Rule 2 — No trust without proof.** Zero-trust, filed. Every action
 cites its rule; every record carries its hash; every penny carries
 its chain.
 
 **Rule 3 — Hash, don't hide.** The space's cryptography prefers
-hash-based constructions (like KSI and SPHINCS+) because they have
+hash-based constructions (like KSI and SPHINCS+). They have
 no keys to steal and no certificates to forge. What cannot be stolen
 cannot be the point of attack.
 
@@ -125,7 +125,7 @@ A physical penny has a mint year, a mint mark, and a metal identity.
 The space extends this: every filed record gets a **Provenance Penny**
 — a hash chain entry whose root is *minted* (published, timestamped,
 irreversible) like a coin. You cannot forge a penny's provenance
-without breaking the whole chain — and the whole chain is public.
+without breaking the whole chain. And the whole chain is public.
 
 See `docs/wubu-cryptography.md` for the full spec.
 

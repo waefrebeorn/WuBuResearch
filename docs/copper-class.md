@@ -64,7 +64,7 @@ Adopted as the counting standard — **amended from the first draft**:
   *anchor class*: physically closed forever — no mint action can add
   to it.
 - **CLASS B — Zinc** (Oct 1982–Nov 2025, 97.5% zinc): 2.50 g each.
-  The *era class*: production ended Nov 12, 2025, and the Common
+  The *era class*: production ended early 2026, and the Common
   Cents Act (H.R. 3074, passed House July 2026) would codify that
   end permanently. Currently closed in practice, closed in law if
   the Act passes — but the space does not need it closed to trust

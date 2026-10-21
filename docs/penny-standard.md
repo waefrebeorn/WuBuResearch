@@ -22,7 +22,7 @@ has all five:
    $5, ...). The space's currency has exactly one denomination:
    the penny. There is no other. There will never be another.
 2. **Finite forever:** the supply is capped by the U.S. Mint's own
-   halt (~114 billion pennies, last minted Nov 12, 2025). The space
+   halt (~114 billion pennies, last minted early 2026). The space
    cannot inflate. Nobody can inflate. The cap is enforced by an
    external government's decision — the strongest cap in history.
 3. **Metal-backed, but the metal IS the money:** gold-standard

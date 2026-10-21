@@ -177,6 +177,13 @@ But the Bureau files technical documents too. The checker
    allowed. Bureaucratic obscurity is not.
 7. **Every new RND/GOV/ECO/WBI form is checked before filing.** The
    checker is `bin/plain_lang <file>` in WuBuCore. Exit 0 means CLEAR.
+8. **Verbatim founder material is exempt.** Blockquotes that file
+   the founder's own words, quoted sources, or filed-verbatim
+   evidence are NOT rewritten to plain English. They are evidence,
+   not the space's prose. A document may carry quoted material
+   beyond the gate; the space's own sentences must still pass.
+   The exemption is marked by the blockquote (`>`), and it does
+   not excuse the space's own sentences around the quote.
 
 ### The amendment clause
 

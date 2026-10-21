@@ -39,7 +39,7 @@ pennies for art — the wheat-penny freedom, codified.
 ## The date
 
 **November 12** — the anniversary of the last penny minted
-(Nov 12, 2025). The day the Mint stopped is the day the space
+(early 2026). The day the Mint stopped is the day the space
 celebrates the penny most. (Annual; special Penny Days may be
 declared at any time by any issue — Scenario C.)
 
@@ -106,7 +106,7 @@ declared at any time by any issue — Scenario C.)
 
 - RND-16.1: Penny Day filed as its own protocol (AUD-1 F2 fix — was a dangling reference from RND-7/ECO-1/ECO-2)
 - RND-16.2: Legal basis verified — 31 C.F.R. § 82.2(b) novelty/amusement exception; Three Metal Rules intact
-- RND-16.3: Date filed — November 12 (anniversary of the last penny, Nov 12, 2025)
+- RND-16.3: Date filed — November 12 (anniversary of the last penny, early 2026)
 - RND-16.4: Seven rites filed; three rules filed (no gouging, no shaming, no fighting)
 
 *Form RND-16 — Penny Day. Filed. Done. Next.*

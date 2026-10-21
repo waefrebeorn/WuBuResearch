@@ -101,3 +101,16 @@ findings is not research — it is a cult. The R&D Department files.
 > We are the first ones. The universe is scary, and we study it.
 
 *Form RND-0 — R&D charter. Filed. Done. Next.*
+
+<!-- GENERATED-INDEX -->
+## Index (generated)
+
+The **generated filing index** lives in [`INDEX.md`](INDEX.md) — produced by `tools/govgen.py index` from `registry/filings.json`. Never hand-edit it; edit the registry and regenerate.
+
+## License
+
+**WaefreBeorn Umbrella License v3.0** (see [LICENSE](LICENSE)). The
+master license for all WaefreBeorn work: the populace is free, the
+corporation is an entity of money. Anyone may use this license for
+their own work — and by doing so, their work becomes part of the
+~ WuBu ~ space. Includes the physical Penny Clause.
