@@ -52,27 +52,27 @@ measure. The density is in the sentences, not in the structure.
 
 ## Part 3 — The refusal
 
-The gate can be made green in one afternoon by lowering it, by excluding
-bullets, or by counting only the paragraphs a reviewer chooses. Every one
-of those is Goodhart's Law (GOV-8): a measure becomes a target, and the
+Someone can make the gate green in one afternoon. Lower the floor.
+Exclude the bullets. Count only the paragraphs a reviewer chooses. Each
+move is Goodhart's Law (GOV-8). A measure becomes a target, and the
 target stops measuring.
 
-The floor stays at 60. The corpus does not pass. Both facts are recorded
-here in the same filing.
+The floor stays at 60. The corpus does not pass. This filing records
+both facts.
 
 ## Part 4 — The path that does not lie
 
 1. **New and amended filings clear both gates before filing** (RND-22,
-   already binding). This is why GOV-77 and this filing are short-sentenced.
+   already binding). This is why GOV-77 and this filing use short sentences.
 2. **Legacy filings form a queue, not an excuse.** `govgen lang` now
    writes the queue: the thirty documents furthest below the floor,
    ranked, with the points needed. Work comes off the queue in order.
-3. **Split the doctrine from the record.** A filing has two jobs: teach a
-   newcomer, and keep an exact ledger of what was filed and from where.
-   Dense filing-log bullets serve the second job and block the first.
-   The proposal: each LEDGER filing gains a short doctrine section that
-   the gate reads, and keeps its dated ledger entries as a record the
-   gate treats as structure — the same way it already treats tables and
+3. **Split the doctrine from the record.** A filing has two jobs. It
+   teaches a newcomer, and it keeps an exact ledger of what the space filed
+   and from where. Dense filing-log bullets serve the second job. They block
+   the first. The proposal: each LEDGER filing gains a short doctrine
+   section that the gate reads. It keeps its dated ledger entries as a
+   record the gate treats as structure, the way it treats tables and
    code.
 4. **Measure the split before building it.** The next pass runs the gates
    on the doctrine sections alone. If LEDGER prose still scores below 60,
@@ -81,7 +81,7 @@ here in the same filing.
 ## Part 5 — What this filing is not
 
 This is not a plan with dates. It is a measurement, a refusal, and a
-queue. The queue is generated, so the space cannot lose it, and the
+queue. A tool generates the queue, so the space cannot lose it, and the
 doctrine cannot pass by forgetting.
 
 ---
