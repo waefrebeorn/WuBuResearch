@@ -8,6 +8,8 @@ The partner of the Bureau.**
 
 ---
 
+> **~WuBu~ AGI** — one system, many repositories. Part of the **~WuBu~ space** — one of its organs (R&D).
+
 ## For agents — the door
 
 An agent joins this organ by running a tool, not by asking a person.
